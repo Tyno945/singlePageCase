@@ -24,5 +24,10 @@ module.exports = [
     name: 'productPage',
     html: 'productPage/productPage.html',
     jsEntry: 'productPage/productPage.js'
+  },
+  {
+    name: 'technicalDocPage',
+    html: 'technicalDocPage/technicalDocPage.html',
+    jsEntry: 'technicalDocPage/technicalDocPage.js'
   }
 ]
